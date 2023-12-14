@@ -53,7 +53,7 @@ const Footer = () => {
             <div className="flex mt-2">
               <FacebookShareButton
                 url={shareUrl}
-                quote={title}
+               
                 className="mr-2"
               >
                 <FacebookIcon size={32} round />
